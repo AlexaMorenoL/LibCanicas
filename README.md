@@ -27,4 +27,4 @@ A continuación el listado de las funciones contenidas en la librería:
 
 ## Requisitos para usar el sistema
 
-Debe de poseer una version a ***Python*** superior a 3.5, adicionalmente debe de poseer la librería ***math***, la librería ***numpy*** y descargar el repositorio.
+Debe de poseer una version a ***Python*** superior a 3.5, adicionalmente debe de poseer la librería ***matplotlib***, la librería ***numpy*** y descargar el repositorio.
